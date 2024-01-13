@@ -26,7 +26,7 @@ const Header = () => {
   return (
     <Container>
       <Title>
-        Here you can find a word <br />
+        Here you can find a world <br />
         wide weather forecast
       </Title>
 
